@@ -5,7 +5,7 @@
 Pregrado/Universidad de Antioquia    
 **Astronomia**  
 Octubre 2014-  
-Diplamado/Universidad de Antioquia  
+Diplomado/Universidad de Antioquia  
 **Profundizacion en Astronomia**
 * Fundamentos en Galaxias y Cosmologia
 * Fundamentos en Astrofisica
