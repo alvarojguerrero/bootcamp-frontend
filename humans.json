@@ -1,0 +1,40 @@
+{
+    "humans":[
+    {
+        "name":"Alejandra",
+        "age":20,
+        "pets":["cat","dog","fish"],
+        "friends":false,
+        "friends_list":[]
+    },
+    {
+        "name":"Camila",
+        "age":21,
+        "pets":["cat","dog","fish"],
+        "friends":false,
+        "friends_list":[]
+    },
+    {
+        "name":"Juan",
+        "age":23,
+        "pets":["cat","dog","fish"],
+        "friends":false,
+        "friends_list":[]
+    },
+    {
+        "name":"Maria",
+        "age":27,
+        "pets":["cat","dog","fish"],
+        "friends":false,
+        "friends_list":[]
+    },
+    {
+        "name":"Diana",
+        "age":19,
+        "pets":["cat","dog","fish"],
+        "friends":true,
+        "friends_list":["Carlos", "Viviana", "Sofia"]
+    }
+    ]
+
+}
